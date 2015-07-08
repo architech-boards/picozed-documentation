@@ -2,9 +2,9 @@
 Architech's Picozed documentation
 *********************************
 
-:Version: 2.0.0A
+:Version: 2.2.0A
 :Copyright: Architech
-:Date: 26/03/15
+:Date: 08/07/15
 
 .. image:: _static/board.png
     :align: center
