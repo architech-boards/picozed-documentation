@@ -26,8 +26,8 @@ Will be shown the u-boot prompt, then insert the following commands:
 .. raw:: html
 
  <div>
- <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_boot_rst-board-241' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_boot_rst-board-241" class="language-markup">zynq-uboot&gt; setenv uenvboot "fatload mmc 0 0x3000000 uEnv.txt && env import -t 0x3000000 $filesize && run uenv_boot"
+ <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_boot_rst-board-261' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_boot_rst-board-261" class="language-markup">zynq-uboot&gt; setenv uenvboot "fatload mmc 0 0x3000000 uEnv.txt && env import -t 0x3000000 $filesize && run uenv_boot"
  zynq-uboot&gt; saveenv
  zynq-uboot&gt; run uenvboot</code></pre>
  <script src="_static/prism.js"></script>
@@ -43,8 +43,8 @@ Give *root* to the login prompt:
 .. raw:: html
 
  <div>
- <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_boot_rst-board-242' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_boot_rst-board-242" class="language-markup">picozed-zynq7 login: root</code></pre>
+ <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_boot_rst-board-262' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_boot_rst-board-262" class="language-markup">picozed-zynq7 login: root</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
