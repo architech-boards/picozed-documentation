@@ -3,7 +3,7 @@ Architech's Picozed documentation
 *********************************
 
 :Version: 2.2.0C
-:Copyright: Architech
+:Copyright: (C)2016 Avnet Silica company
 :Date: 08/03/16
 
 .. image:: _static/board.png
